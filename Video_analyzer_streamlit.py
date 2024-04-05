@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[ ]:
-pip install opencv-python-headless
+opencv-python-headless
 
 import streamlit as st
 import cv2
