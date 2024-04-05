@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # In[ ]:
-opencv-python-headless
 
 import streamlit as st
 import cv2
